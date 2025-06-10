@@ -16,5 +16,14 @@ A simple GUI-based Currency Converter built using Java Swing.
 - Java
 - Swing GUI Toolkit
 
-## 📁 Project Structure
+
+## 🛠️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/currency-converter.git
+   cd currency-converter
+javac src/CurrencyConverter.java
+java -cp src CurrencyConverter
+
 
